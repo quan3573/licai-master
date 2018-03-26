@@ -1,4 +1,4 @@
-# licai-master
+Finance Master
 This is a useful tool which is generally categorized into "futures financial management" and "P2P financial management" sections. Users can record and calculate their principal and interest in futures financial management section and calculate true rate of interest, prospective yield and check repayment details in P2P financial management. Additionally, this product also provides practical tools such as risk assessment, renting, and house purchasement to provide more quality services for the users.
 
 Features
